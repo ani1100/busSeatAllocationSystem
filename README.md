@@ -10,6 +10,6 @@ ABC1 - (Jammmu -> Katra -> Amritsar)<br>
 ABC2 - (Jammmu -> Katra -> Amritsar)<br>
 ABC3 - (Kolkata -> Digha)<br>
 Bus details can be viewed by searching bus id's. New buses can also be registered from Bus Registration Screen. <br>
-Have already scheduled trips for ABC1 and ABC2 on 1st January,2025 from Jammu to Amritsar. New Trips can also be scheduled for every bus. <br>
+Have already scheduled trips for ABC1 and ABC2 on 1st January,2025 from Jammu to Amritsar. New Trips can also be scheduled for every bus and also booking details for scheduled trips can be downloaded in the form of pdfs. <br>
 Customer can book seats according to their preference from Customer Seat Booking screen. Enter departure location as "Jammu", arrival location as "Amritsar" and departure date as "1st January,2025" and book seats as you want to. <br>
 Try to experiment as you want to. Everthing is validated !!.
