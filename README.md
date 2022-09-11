@@ -1,5 +1,5 @@
 # Bus Seat Allocation System
-This is a ready to use software system.<br>
+This is a ready to use application.<br>
 The Software system is an online seat booking as well as bus reservation system where buses can be registered, trips can be scheduled and booking details for a scheduled trip can be downloaded in the form of pdf. Also, customers can book seats according to their preference.<br>
 <br>Technologies Used :<br>
 Backend -> Java, SpringBoot, PostreSQL<br>
