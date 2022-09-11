@@ -226,7 +226,7 @@ $scope.expandbus=function(obj,type)
 			  {
 			  ct+=1;
 			  var temp=$scope.seatdtls.listseat[i];
-			  (temp.status=="N")?temp.color="white":temp.color="DCDCDC";
+			  (temp.status=="N")?temp.color="white":temp.color="#D8D8D8";
 			  obj.backseatdtls.push(temp);
 			  }
 			  var ct1=0;
@@ -242,19 +242,19 @@ $scope.expandbus=function(obj,type)
 				  for(var k=0;k<response.data.custbook.busdetails.seatleftside;k+=1)
 				  {
 				   var temp=$scope.seatdtls.listseat[k+ct];
-			  	   (temp.status=="N")?temp.color="white":temp.color="DCDCDC";
+			  	   (temp.status=="N")?temp.color="white":temp.color="#D8D8D8";
 			  	   rowlis.push(temp);
 				  }
 				  ct=ct+response.data.custbook.busdetails.seatleftside;
 				  for(var k=0;k<empty;k+=1)
 				  {
-				   var obj1={"seatno":"-1","status":"U","color":"#0071c5"};
+				   var obj1={"seatno":"-1","status":"U","color":"#6CB4EE"};
 			  	   rowlis.push(obj1);
 				  }
 				  for(var k=0;k<response.data.custbook.busdetails.seatrightside;k+=1)
 				  {
 				   var temp=$scope.seatdtls.listseat[k+ct];
-			  	   (temp.status=="N")?temp.color="white":temp.color="DCDCDC";
+			  	   (temp.status=="N")?temp.color="white":temp.color="#D8D8D8";
 				   rowlis.push(temp);
 				  }
 				  ct=ct+response.data.custbook.busdetails.seatrightside;

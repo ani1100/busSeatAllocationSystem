@@ -54,16 +54,11 @@ color:white;
 .verticaldtls
 {
 font-size:24px;
-background-color:00BFFF;
+background-color:#1877F2;
 padding:10px;
 color:white;
 display:inline-block;
 padding-left:20px;
-}
-.dtls4
-{
-padding:20px;
-float:left;
 }
 .busstr
 {
@@ -74,13 +69,13 @@ float:left;
 }
 .custbook1
 {
-  background-color:#0071c5;
+  background-color:#6CB4EE;
   float:left;
   padding:20px;
   margin-left:5%;
   margin-right:5%;
-  border:2px ridge black;
   text-align:center;
+  border:2px ridge black;
 }
 .custbook2
 {
