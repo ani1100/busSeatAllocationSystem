@@ -5,7 +5,7 @@ The Software system is an online seat booking as well as bus reservation system 
 Backend -> Java, SpringBoot, PostreSQL<br>
 Frontend -> AngularJS, HTML, CSS , Bootstrap, Javascript<br><br>
 
-Clone this git repository for sample and run it via eclipse or Spring Tool Suite(STS). 
+Clone this git repository for sample and run it via eclipse or Spring Tool Suite(STS). <br>
 Three buses are already registered for demo purpose.<br>
 BUS ID's - <br>
 ABC1 - (Jammmu -> Katra -> Amritsar)<br>
