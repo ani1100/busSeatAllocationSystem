@@ -37,14 +37,14 @@ Files can be extracted in two ways.
    * Go to Java Perspective , Click on portal -> src/main/java -> .com.aniket.portal -> Right click on PortalApplication.java -> Run as Java Application (Or search for PortalApplication.java and run that as java application)
    * Application will be launched on localhost. [http://localhost:8080/home]
 ## Database 
-For sample purpose, h2 database(local database) is integrated with the application so that application can run for any user.
-If user want to change the database, they can make relevant changes in "application.properties" file.
-Also, some data is pre-populated for sample purpose which can be deleted from "data.sql" file.
+For sample purpose, h2 database(local database) is integrated with the application so that application can run for any user.<br>
+If user want to change the database, they can make relevant changes in "application.properties" file.<br>
+Also, some data is pre-populated for sample purpose which can be deleted from "data.sql" file.<br>
 ## Sample data
-All are below information are for sample purpose.
-Three bus have already been registered.
-BUSID - ABC1 , ABC2 , ABC3
-Trips is also been scheduled for ABC1 and ABC2 on 1st January,2025 from Jammu to Amritsar (Stoppages - Jammu -> Katra -> Amritsar). Some seats are already booked for representation purpose.
+* All are below information are for sample purpose.
+* Three bus have already been registered. (BUSID - ABC1 , ABC2 , ABC3)
+* Trips is also been scheduled for BUSID - ABC1 and ABC2 on 1st January,2025 from Jammu to Amritsar (Stoppages - Jammu -> Katra -> Amritsar).
+* Some seats are already booked for representation purpose.
 This is enough for sample purpose.
 
 Bus details can be viewed by searching bus id's. New buses can also be registered from Bus Registration Screen. <br>
