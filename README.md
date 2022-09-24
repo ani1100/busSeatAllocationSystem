@@ -13,7 +13,7 @@ The Software system is an online seat booking as well as bus reservation system 
 * Bootstrap
 ## Features
 * Bus can be registered with their bus structure and stoppage details.
-* Bus can have multiple stoppages.
+* Bus can have multiple stoppages. 
 * Registered bus can view their details. 
 * Registered bus can schedule future trips.
 * Registered bus can download pdf for future/completed/on-going trips which contains booking deatils for every seat.
@@ -40,13 +40,13 @@ Files can be extracted in two ways.
 For sample purpose, h2 database(local database) is integrated with the application so that application can run for any user.
 If user want to change the database, they can make relevant changes in "application.properties" file.
 Also, some data is pre-populated for sample purpose which can be deleted from "data.sql" file.
+## Sample data
+All are below information are for sample purpose.
+Three bus have already been registered.
+BUSID - ABC1 , ABC2 , ABC3
+Trips is also been scheduled for ABC1 and ABC2 on 1st January,2025 from Jammu to Amritsar (Stoppages - Jammu -> Katra -> Amritsar). Some seats are already booked for representation purpose.
+This is enough for sample purpose.
 
-
-Three buses are already registered for demo purpose.<br>
-BUS ID's - <br>
-ABC1 - (Jammmu -> Katra -> Amritsar)<br>
-ABC2 - (Jammmu -> Katra -> Amritsar)<br>
-ABC3 - (Kolkata -> Digha)<br>
 Bus details can be viewed by searching bus id's. New buses can also be registered from Bus Registration Screen. <br>
 Have already scheduled trips for ABC1 and ABC2 on 1st January,2025 from Jammu to Amritsar. New Trips can also be scheduled for every bus and also booking details for scheduled trips can be downloaded in the form of pdfs. <br>
 Customer can book seats according to their preference from Customer Seat Booking screen. Enter departure location as "Jammu", arrival location as "Amritsar" and departure date as "1st January,2025" and book seats as you want to. <br>
