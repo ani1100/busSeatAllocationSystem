@@ -22,7 +22,21 @@ The Software system is an online seat booking as well as bus reservation system 
 ## How To Use
 ##### Software needed to run the application
 Eclipse or Spring Tool Suite(STS).
-##### How to Clone
+##### How to Extract Files
+Files can be extracted in two ways.
+1. Download ZIP File
+   * Download ZIP File from Code -> Download ZIP
+   * After download is completed, extract files
+   * Start Eclipse/Spring Boot by choosing a workplace. Import project (Import -> Maven ->Existing Maven Projects ->Choose Root Directory) and click on finish. Project will be imported.
+   * Click on portal -> src/main/java -> .com.aniket.portal -> Right click on PortalApplication.java -> Run as Java Application (Or search for PortalApplication.java and run that as java application)
+   * Application will be launched on localhost. [http://localhost:8080/home]
+2. Clone Git Repository
+   * Use URL - https://github.com/ani1100/busSeatAllocationSystem.git for cloning.
+   * Start Eclipse/Spring Boot by choosing a workplace. Go to GIT Perspective -> Clone a Git Repository -> Paste the URL for cloning -> Click on Next -> Click on Finish on next pop up. 
+   * After this, a local git repository will be created. Right Click on busSeatAllocationSystem -> Select import projects -> Click on Finish. Project will be imported.
+   * Go to Java Perspective , Click on portal -> src/main/java -> .com.aniket.portal -> Right click on PortalApplication.java -> Run as Java Application (Or search for PortalApplication.java and run that as java application)
+   * Application will be launched on localhost. [http://localhost:8080/home]
+
 Clone this git repository for sample and run it via eclipse or Spring Tool Suite(STS). <br>
 Three buses are already registered for demo purpose.<br>
 BUS ID's - <br>
