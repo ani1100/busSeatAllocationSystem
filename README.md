@@ -46,8 +46,10 @@ Also, some data is pre-populated for sample purpose which can be deleted from "d
 * Trips is also been scheduled for BUSID - ABC1 and ABC2 on 1st January,2025 from Jammu to Amritsar (Stoppages - Jammu -> Katra -> Amritsar).
 * Some seats are already booked for representation purpose.
 This is enough for sample purpose.
-
-Bus details can be viewed by searching bus id's. New buses can also be registered from Bus Registration Screen. <br>
-Have already scheduled trips for ABC1 and ABC2 on 1st January,2025 from Jammu to Amritsar. New Trips can also be scheduled for every bus and also booking details for scheduled trips can be downloaded in the form of pdfs. <br>
-Customer can book seats according to their preference from Customer Seat Booking screen. Enter departure location as "Jammu", arrival location as "Amritsar" and departure date as "1st January,2025" and book seats as you want to. <br>
-Try to experiment as you want to. Everthing is validated !!.
+## Application Navigation
+* Bus details can be viewed by searching BUSID's.
+* New bus can be registered from Bus Registration Tab.
+* Customer can book seats from Customer Seat Booking Tab. Try entering Start Location as "Jammu" and End Location as "Amritsar" and Departure Date as "1st January,2025" to see the results. Choose bus and book seats.
+* New Trips can be scheduled for registered bus. (Search a bus and click on bus scheduling)
+* Booking details for scheduled trips/completed trips can be downloaded in the form of pdfs.(Search a bus and click on scheduled trips and then,click on View pdf)
+* Try to experiment as you want to. Everthing is validated for the best performance of the user!!.
