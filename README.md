@@ -36,8 +36,12 @@ Files can be extracted in two ways.
    * After this, a local git repository will be created. Right Click on busSeatAllocationSystem -> Select import projects -> Click on Finish. Project will be imported.
    * Go to Java Perspective , Click on portal -> src/main/java -> .com.aniket.portal -> Right click on PortalApplication.java -> Run as Java Application (Or search for PortalApplication.java and run that as java application)
    * Application will be launched on localhost. [http://localhost:8080/home]
+## Database 
+For sample purpose, h2 database(local database) is integrated with the application so that application can run for any user.
+If user want to change the database, they can make relevant changes in "application.properties" file.
+Also, some data is pre-populated for sample purpose which can be deleted from "data.sql" file.
 
-Clone this git repository for sample and run it via eclipse or Spring Tool Suite(STS). <br>
+
 Three buses are already registered for demo purpose.<br>
 BUS ID's - <br>
 ABC1 - (Jammmu -> Katra -> Amritsar)<br>
