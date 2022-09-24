@@ -44,7 +44,7 @@ Also, some data is pre-populated for sample purpose which can be deleted from "d
 * All are below information are for sample purpose.
 * Three bus have already been registered. (BUSID - ABC1 , ABC2 , ABC3)
 * Trips is also been scheduled for BUSID - ABC1 and ABC2 on 1st January,2025 from Jammu to Amritsar (Stoppages - Jammu -> Katra -> Amritsar).
-* Some seats are already booked for representation purpose.
+* Some seats are already booked for representation purpose.<br>
 This is enough for sample purpose.
 ## Application Navigation
 * Bus details can be viewed by searching BUSID's.
